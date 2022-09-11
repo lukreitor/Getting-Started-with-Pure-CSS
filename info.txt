@@ -1,0 +1,11 @@
+
+gettingstartedwith.css.education
+https://gettingstartedwith.css.education/portfolio/
+https://gettingstartedwith.css.education/ch1.html
+
+fontpair -> two fonts 
+cssgradient.io -> gradient
+
+internet foundamentals -> course on frontendmarsters, its free and hilgh recomended
+
+https://www.freecodecamp.org/news/write-html-css-faster-with-emmet-cheat-codes/
